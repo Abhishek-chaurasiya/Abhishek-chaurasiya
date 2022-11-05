@@ -54,8 +54,8 @@ I'm an undergraduate student at **Indina Institute Of Information Technology Jab
 <br />
 
 ## Profile Status:
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=devilabhipro&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="devilabhipro" /> 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devilabhipro&theme=tokyonight_duo&hide_border=true&background=DD272700&fire=FF0000&ring=FF5403&currStreakNum=FF3A13" alt="devilabhipro" />
-<p align="center"> <img align="center" src="https://leetcode-stats.vercel.app/api?username=devilabhipro&theme=Dark" alt="devilabhipro" /> 
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-chaurasiya&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="abhishek-chaurasiya" /> 
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abhishek-chaurasiya&theme=tokyonight_duo&hide_border=true&background=DD272700&fire=FF0000&ring=FF5403&currStreakNum=FF3A13" alt="abhishek chaurasiya" />
+<p align="center"> <img align="center" src="https://leetcode-stats.vercel.app/api?username=devilabhipro&theme=Dark" alt="abhishek chaurasiya" /> 
 
 ![](./assets/bottom_header.svg)
