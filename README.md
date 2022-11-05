@@ -9,14 +9,14 @@ I'm an undergraduate student at **Indina Institute Of Information Technology Jab
 <br />
 
 
-## Coding Profile:
+<!-- ## Coding Profile:
 
 <a href="https://leetcode.com/devilabhipro/">
   <img align="left" alt="Abhishek's Leetcode" width="32px" src="https://github.com/Abhishek-chaurasiya/Abhishek-chaurasiya/leetcode.svg" />
 </a>
 <a href="https://codeforces.com/profile/DEVILABHIPRO">
   <img align="left" alt="Abhishek's Codeforce" width="32px" src="https://github.com/Abhishek-chaurasiya/Abhishek-chaurasiya/code-forces.svg" />
-</a>
+</a> -->
 
 
 <br />
@@ -36,9 +36,7 @@ I'm an undergraduate student at **Indina Institute Of Information Technology Jab
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60px" height="50px"/> </a>
-     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v1107947142dadf6449a2907ce0a39fab2989512ca62a8e88f40e576d91855aef/tensorflow/images/lockup.svg" alt="tensorflow" width="100px" height="40px"/> </a>
-    <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a>
-    <a href="https://opencv.org/" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" alt="opencv" width="40" height="40"/> </a>
+    
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
