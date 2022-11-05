@@ -12,10 +12,10 @@ I'm an undergraduate student at **Indina Institute Of Information Technology Jab
 ## Coding Profile:
 
 <a href="https://leetcode.com/devilabhipro/">
-  <img align="left" alt="Abhishek's Leetcode" width="32px" src="https://github.com/Abhishek-chaurasiya/Abhishek-chaurasiya/blob/main/assets/leetcode.svg" />
+  <img align="left" alt="Abhishek's Leetcode" width="32px" src="https://github.com/Abhishek-chaurasiya/Abhishek-chaurasiya/leetcode.svg" />
 </a>
 <a href="https://codeforces.com/profile/DEVILABHIPRO">
-  <img align="left" alt="Abhishek's Codeforce" width="32px" src="https://github.com/Abhishek-chaurasiya/Abhishek-chaurasiya/blob/main/assets/code-forces.svg" />
+  <img align="left" alt="Abhishek's Codeforce" width="32px" src="https://github.com/Abhishek-chaurasiya/Abhishek-chaurasiya/code-forces.svg" />
 </a>
 
 
@@ -46,7 +46,7 @@ I'm an undergraduate student at **Indina Institute Of Information Technology Jab
 
 <p align="center">
     <a href="https://github.com/abhishek-chaurasiya/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek chaurasiya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav520&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek chaurasiya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-chaurasiya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
