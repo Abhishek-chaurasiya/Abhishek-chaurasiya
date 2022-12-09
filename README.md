@@ -2,7 +2,7 @@
 I'm an undergraduate student at **Indina Institute Of Information Technology Jabalpur** doing my major in **Software Engineering**.
 
 - 🔭 I’m 3 start at codechef**
-- ✨ Mostly active & contribute to [**Leetcode**](https://leetcode.com/dhruba-datta/)
+- ✨ Mostly active & contribute to [**Leetcode**](https://leetcode.com/devilabhipro/)
 - 🧠 Currently focusing on **Data Structre & Algorithms**
 - 📫 Reach me [**abhishekcomp101@gmail.com**](mailto:abhishekcomp101@gmail.com)
 
