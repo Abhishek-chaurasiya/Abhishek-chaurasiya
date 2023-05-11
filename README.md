@@ -1,5 +1,5 @@
 # <p align="center"> Hey, I'm [Abhishek Kumar Chaurasiya]<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
-I'm an undergraduate student at **Indina Institute Of Information Technology Jabalpur** doing my major in **Software Engineering**.
+I'm an undergraduate student at **Indian Institute Of Information Technology Jabalpur** doing my major in **Software Engineering**.
 
 - 🔭 I’m 3 start at codechef**
 - ✨ Mostly active & contribute to [**Leetcode**](https://leetcode.com/devilabhipro/)
